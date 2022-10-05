@@ -9,8 +9,9 @@ function App() {
   return (
     <>
 
+
       <Search />
-      <button type="button" class="btn btn-light" style={{ marginLeft: '100px', paddingTop: '156vh', marginTop: '-168vh', paddingLeft: '9vh', borderRadius: '0px' }}></button>
+      <button type="button" class="btn btn-light" style={{ marginLeft: '90px', paddingTop: '68rem', marginTop: '-157vh', paddingLeft: '9vh' }}></button>
       <HomeIcon style={{marginLeft: '-7vh', marginTop: '-124rem'}} />
       <AccessibilityNewIcon style={{marginLeft: '-25px', marginTop: '-116rem'}} />
       <PeopleIcon style={{marginLeft: '-22px', marginTop: '-108rem'}}/>
