@@ -16,7 +16,7 @@ function App() {
       <AccessibilityNewIcon style={{marginLeft: '-25px', marginTop: '-116rem'}} />
       <PeopleIcon style={{marginLeft: '-22px', marginTop: '-108rem'}}/>
       <CoPresentIcon style={{marginLeft: '-25px', marginTop: '-100rem'}} />
-      <button type="button" class="btn btn-light" style={{ marginLeft: '74rem', paddingTop: '156vh', marginTop: '-168vh', paddingLeft: '10vh', borderRadius: '0px' }}></button>
+      <button type="button" class="btn btn-light" style={{ marginLeft: '74rem', paddingTop: '146vh', marginTop: '-157vh', paddingLeft: '10vh', borderRadius: '0px' }}></button>
     </>
   );
 }
